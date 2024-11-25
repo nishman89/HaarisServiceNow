@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Sparta Smart Watch Incidents App Config">997b80d289421a10352318b6c3fb3465</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="Sparta Watch Requests Record Page">b37b84d2c3421a102272be3ed4013168</macroponent>
+        <macroponent_config>{
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "comment": "",
+            "message": ""
+        }
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    }
+}</macroponent_config>
+        <name>Sparta Watch Requests Record Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=x_1563422_sparta_0_sparta_watch_requests</screen_condition>
+        <screen_type display_value="Record">857b80d24c421a10ab02089a76282a5a</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 11:20:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3f7b84d2c3421a102272be3ed401316c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sparta Watch Requests Record Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_update_name>sys_ux_screen_3f7b84d2c3421a102272be3ed401316c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 11:20:58</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=3f7b84d2c3421a102272be3ed401316c"/>
+</record_update>

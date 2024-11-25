@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>Watch Requests</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Sparta Smart Watch Requests</name>
+        <record_id>6feccd1dc30ad2102272be3ed4013179</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 13:32:56</sys_created_on>
+        <sys_id>a3eccd1dc30ad2102272be3ed4013114</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sparta Smart Watch Requests</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_a3eccd1dc30ad2102272be3ed4013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 13:32:56</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</application>
+        <file_path/>
+        <instance_id>08abcc901b118610168f4089bd4bcb4c</instance_id>
+        <instance_name>dev250437</instance_name>
+        <name>sn_ihub_integration_instance_a3eccd1dc30ad2102272be3ed4013114</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>Watch Requests</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Sparta Smart Watch Requests</name><record_id>6feccd1dc30ad2102272be3ed4013179</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-22 13:32:56</sys_created_on><sys_id>a3eccd1dc30ad2102272be3ed4013114</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Sparta Smart Watch Requests</sys_name><sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package><sys_policy/><sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope><sys_update_name>sn_ihub_integration_instance_a3eccd1dc30ad2102272be3ed4013114</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-22 13:32:56</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1246211017</payload_hash>
+        <record_name>Sparta Smart Watch Requests</record_name>
+        <reverted_from/>
+        <source>2f43ab70c34e52102272be3ed4013105</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 13:32:56</sys_created_on>
+        <sys_id>6feccd1dc30ad2102272be3ed4013183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193541360e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 13:32:56</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>63eccd1d060ad210e038dad57a294d83</update_guid>
+        <update_guid_history>63eccd1d060ad210e038dad57a294d83:-1246211017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sparta Smart Watch Requests">e59dcd1dc30ad2102272be3ed40131a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 13:35:48</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>a140d31cb7dc45688aac08de78b840e4</sys_id>
+        <sys_metadata>a3eccd1dc30ad2102272be3ed4013114</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sparta Smart Watch Requests</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_scope_delete display_value="">44d26e3085d242ec822cc3db3488ae09</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_a3eccd1dc30ad2102272be3ed4013114</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_a3eccd1dc30ad2102272be3ed4013114">6feccd1dc30ad2102272be3ed4013183</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 13:35:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

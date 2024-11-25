@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cf2ec59dc30ad2102272be3ed4013181" extends="sc_request" label="Sparta Watch Requests" max_length="40" name="x_1563422_sparta_0_sparta_watch_requests" text_index="true" type="collection">
+        <element label="Assignment Stage" max_length="80" name="assignment_stage" type="workflow"/>
+    </element>
+</database>

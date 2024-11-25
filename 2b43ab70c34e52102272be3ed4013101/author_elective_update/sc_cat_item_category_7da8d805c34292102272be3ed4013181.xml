@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Smart Watch Incidents">86f61881c34292102272be3ed4013115</sc_cat_item>
+        <sc_category display_value="Maintenance and Repair">d2f86388c611227a002209db6966d5ad</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:06:03</sys_created_on>
+        <sys_id>7da8d805c34292102272be3ed4013181</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance and Repair.Smart Watch Incidents</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_update_name>sc_cat_item_category_7da8d805c34292102272be3ed4013181</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 15:06:03</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</application>
+        <file_path/>
+        <instance_id>08abcc901b118610168f4089bd4bcb4c</instance_id>
+        <instance_name>dev250437</instance_name>
+        <name>sc_cat_item_category_7da8d805c34292102272be3ed4013181</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Smart Watch Incidents">86f61881c34292102272be3ed4013115</sc_cat_item><sc_category display_value="Maintenance and Repair">d2f86388c611227a002209db6966d5ad</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-21 15:06:03</sys_created_on><sys_id>7da8d805c34292102272be3ed4013181</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Maintenance and Repair.Smart Watch Incidents</sys_name><sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package><sys_policy/><sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope><sys_update_name>sc_cat_item_category_7da8d805c34292102272be3ed4013181</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-21 15:06:03</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1402932247</payload_hash>
+        <record_name>Maintenance and Repair.Smart Watch Incidents</record_name>
+        <reverted_from/>
+        <source>2f43ab70c34e52102272be3ed4013105</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:06:03</sys_created_on>
+        <sys_id>02a8d805c34292102272be3ed4013186</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1934f4246260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 15:06:03</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>42a8d8056e4292100ecd559842548485</update_guid>
+        <update_guid_history>42a8d8056e4292100ecd559842548485:-1402932247</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Maintenance and Repair.Smart Watch Incidents">d4fc9c49c34292102272be3ed40131b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 15:24:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4b7bcf3e253a4c9f9a239ff517ca2679</sys_id>
+        <sys_metadata>7da8d805c34292102272be3ed4013181</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance and Repair.Smart Watch Incidents</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_scope_delete display_value="">44d26e3085d242ec822cc3db3488ae09</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7da8d805c34292102272be3ed4013181</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7da8d805c34292102272be3ed4013181">02a8d805c34292102272be3ed4013186</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 15:24:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

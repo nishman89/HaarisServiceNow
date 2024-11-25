@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a68bfc95c3c6d2102272be3ed40131de" extends="task" label="Sparta Watch Incidents" max_length="40" name="x_1563422_sparta_0_sparta_watch_incidents" text_index="true" type="collection">
+        <element choice="1" label="Connectivity Issues" max_length="40" name="connectivity_issues" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bluetooth" sequence="1" value="Bluetooth"/>
+                <element inactive_on_update="false" label="None" sequence="2" value="None"/>
+                <element inactive_on_update="false" label="Wi-fi" sequence="0" value="Wi-fi"/>
+            </choice>
+        </element>
+        <element choice="1" label="Watch Model" max_length="40" name="watch_model" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sparta Sport" sequence="1" value="Sparta Sport"/>
+                <element inactive_on_update="false" label="Sparta Premium" sequence="2" value="Sparta Premium"/>
+                <element inactive_on_update="false" label="Sparta Classic" sequence="0" value="Sparta Classic"/>
+            </choice>
+        </element>
+    </element>
+</database>

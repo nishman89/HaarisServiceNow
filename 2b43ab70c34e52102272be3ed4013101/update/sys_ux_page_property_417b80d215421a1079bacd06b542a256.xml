@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="Sparta Smart Watch Incidents">d57b80d273421a109ee9839034fc3a65</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 11:20:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>417b80d215421a1079bacd06b542a256</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_update_name>sys_ux_page_property_417b80d215421a1079bacd06b542a256</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 11:20:49</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1563422_sparta_0.d57b80d273421a109ee9839034fc3a65.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=417b80d215421a1079bacd06b542a256"/>
+</record_update>

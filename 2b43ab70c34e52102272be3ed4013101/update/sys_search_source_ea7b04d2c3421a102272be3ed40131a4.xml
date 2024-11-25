@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1563422_sparta_0_sparta_watch_incidents">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <group/>
+        <name>Sparta Smart Watch Incidents - x_1563422_sparta_0_</name>
+        <roles/>
+        <source_table>x_1563422_sparta_0_sparta_watch_incidents</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-25 11:20:53</sys_created_on>
+        <sys_id>ea7b04d2c3421a102272be3ed40131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sparta Smart Watch Incidents - x_1563422_sparta_0_</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_update_name>sys_search_source_ea7b04d2c3421a102272be3ed40131a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-25 11:20:53</sys_updated_on>
+    </sys_search_source>
+</record_update>

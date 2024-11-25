@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 11:35:57</sys_created_on>
+        <sys_id>90982738c34e52102272be3ed401314c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1563422_sparta_0_sparta_watch_incidents.x_1563422_sparta_0.sparta watch requestor</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_security_acl display_value="x_1563422_sparta_0_sparta_watch_incidents">08982738c34e52102272be3ed4013149</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_90982738c34e52102272be3ed401314c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 11:35:57</sys_updated_on>
+        <sys_user_role display_value="x_1563422_sparta_0.sparta watch requestor" name="x_1563422_sparta_0.sparta watch requestor">3b43ab70c34e52102272be3ed4013112</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</application>
+        <file_path/>
+        <instance_id>08abcc901b118610168f4089bd4bcb4c</instance_id>
+        <instance_name>dev250437</instance_name>
+        <name>sys_security_acl_role_90982738c34e52102272be3ed401314c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-21 11:35:57</sys_created_on><sys_id>90982738c34e52102272be3ed401314c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1563422_sparta_0_sparta_watch_incidents.x_1563422_sparta_0.sparta watch requestor</sys_name><sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package><sys_policy/><sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope><sys_security_acl display_value="x_1563422_sparta_0_sparta_watch_incidents">08982738c34e52102272be3ed4013149</sys_security_acl><sys_update_name>sys_security_acl_role_90982738c34e52102272be3ed401314c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-21 11:35:57</sys_updated_on><sys_user_role display_value="x_1563422_sparta_0.sparta watch requestor" name="x_1563422_sparta_0.sparta watch requestor">3b43ab70c34e52102272be3ed4013112</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2032062408</payload_hash>
+        <record_name>x_1563422_sparta_0_sparta_watch_incidents.x_1563422_sparta_0.sparta watch requestor</record_name>
+        <reverted_from/>
+        <source>2f43ab70c34e52102272be3ed4013105</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 11:35:57</sys_created_on>
+        <sys_id>1c982738c34e52102272be3ed401314e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1934e81ea370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 11:35:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>10982738aa4e52108eee347d6a744e4e</update_guid>
+        <update_guid_history>10982738aa4e52108eee347d6a744e4e:-2032062408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1563422_sparta_0_sparta_watch_incidents.x_1563422_sparta_0.sparta watch reques">aaf38489c3ce52102272be3ed401314b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-21 13:35:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0163731720054d90aad27b906bf4a240</sys_id>
+        <sys_metadata>90982738c34e52102272be3ed401314c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1563422_sparta_0_sparta_watch_incidents.x_1563422_sparta_0.sparta watch requestor</sys_name>
+        <sys_package display_value="Sparta Smart Watch" source="x_1563422_sparta_0">2b43ab70c34e52102272be3ed4013101</sys_package>
+        <sys_parent display_value="">08982738c34e52102272be3ed4013149</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sparta Smart Watch">2b43ab70c34e52102272be3ed4013101</sys_scope>
+        <sys_scope_delete display_value="">44d26e3085d242ec822cc3db3488ae09</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_90982738c34e52102272be3ed401314c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_90982738c34e52102272be3ed401314c">1c982738c34e52102272be3ed401314e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-21 13:35:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
